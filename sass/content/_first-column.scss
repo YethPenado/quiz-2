@@ -1,27 +1,10 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-
-h1 {
-  font-family: Georgia, serif;
-  font-size: 2.625em;
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-.subtitle {
-  font-size: 0.875em;
-  text-align: center;
-}
-
-.first-column {
+.first-column{
   background-image: url(../../img/bg-event.jpeg);
   background-repeat: no-repeat;
   background-size: 100%;
 }
 
-.next-event {
+.next-event{
   background-color: #73C5A5;
   border: none;
   font-size: 1.125em;
@@ -29,20 +12,18 @@ h1 {
   padding: 10px;
 }
 
-.date {
+.date{
   color: #fff;
   font-size: 2.5em;
 }
 
-.event-description {
+.event-description{
   color: #fff;
   font-size: 1.5em;
 }
 
-span {
+span{
   color: #fff;
   font-size: 1.5em;
   font-weight: bold;
 }
-
-/*# sourceMappingURL=main.css.map */
